@@ -1,3 +1,6 @@
+# This is a simple terminal based unit converter that can be used to convert from one
+# system to another.
+
 # things to do:
 # TEMPERATURE CONVERSIONS
 # 1. Convert from celcius to fahrenheit
@@ -46,6 +49,22 @@ def m_to_ft(unit_m):
     return unit_m*3.281
 
 
+def kg_to_pound(unit_kg):
+    return unit_kg*2.20462
+
+
+def pound_to_kg(unit_pound):
+    return unit_pound/2.20462
+
+
+def kilo_to_ounce(unit_kg):
+    return unit_kg*35.247
+
+
+def ounce_to_kilo(unit_ounce):
+    return unit_ounce/35.247
+
+
 print("Welcome to the Unit conversion Program")
 print("Choose the type of conversion you would like: ")
 ch = int(input("1.Temperature conversion \n2.Metric conversion\n3.Mass conversion\n"))
@@ -80,4 +99,16 @@ elif ch == 2:
         print("The approximate value is:")
         print(m_to_ft(ch2))
 else:
-    ch1 = int(input(""))
+    ch1 = int(input("\n1.Kilo to pound\n2.Pound to kilo\n3.Kilo to ounce\n4.Ounce to kilo"))
+    if ch1 == 1:
+        ch2 = int(input("Enter the weight in kilo:"))
+        print(kg_to_pound(ch2))
+    elif ch1 == 2:
+        ch2 = int(input("Enter weight in pounds:"))
+        print(pound_to_kg(ch2))
+    elif ch1 == 3:
+        ch2 = int(input("Enter the weight in kilo:"))
+        print(kilo_to_ounce(ch2))
+    elif ch1 == 4:
+        ch2 = int(input("Enter the weight in ounces:"))
+        print(ounce_to_kilo(ch2))
