@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2b50953-cb39-4584-a7eb-4cfc409eb300" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Factorial/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tiles/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tiles/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,16 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit Converter/mainConverter.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tiles/main.py">
+        <entry file="file://$PROJECT_DIR$/Factorial/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+            <state relative-caret-position="234">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -51,6 +46,7 @@
         <option value="$PROJECT_DIR$/Unit Converter/unitConverterMain.py" />
         <option value="$PROJECT_DIR$/Unit Converter/mainConverter.py" />
         <option value="$PROJECT_DIR$/Tiles/main.py" />
+        <option value="$PROJECT_DIR$/Factorial/main.py" />
       </list>
     </option>
   </component>
@@ -239,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558111252401</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished the file to find the cost of tiling the entire room">
+      <created>1558111578805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558111578805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -267,7 +270,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a few more conversion methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a few more conversion methods" />
+    <MESSAGE value="Finished the file to find the cost of tiling the entire room" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the file to find the cost of tiling the entire room" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/E To NTh Decimal/mainE.py">
@@ -314,6 +318,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factorial/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
