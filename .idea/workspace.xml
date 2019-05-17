@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2b50953-cb39-4584-a7eb-4cfc409eb300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Factorial/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Credit Card Validator/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Factorial/main.py">
+        <entry file="file://$PROJECT_DIR$/Credit Card Validator/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="433">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -47,6 +47,7 @@
         <option value="$PROJECT_DIR$/Unit Converter/mainConverter.py" />
         <option value="$PROJECT_DIR$/Tiles/main.py" />
         <option value="$PROJECT_DIR$/Factorial/main.py" />
+        <option value="$PROJECT_DIR$/Credit Card Validator/main.py" />
       </list>
     </option>
   </component>
@@ -70,17 +71,7 @@
             <path>
               <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="PI To Nth Decimal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Tiles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit Converter" type="462c0819:PsiDirectoryNode" />
+              <item name="Credit Card Validator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -101,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nextMain">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="fibMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +114,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Credit Card Validator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Credit Card Validator/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,27 +148,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PI To Nth Decimal/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mainE" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/E To NTh Decimal" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/E To NTh Decimal/mainE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.nextMain" />
         <item itemvalue="Python.primeMain" />
         <item itemvalue="Python.fibMain" />
-        <item itemvalue="Python.mainE" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -242,26 +233,33 @@
       <option name="project" value="LOCAL" />
       <updated>1558111578805</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="To find the factorial of a number using recursion.">
+      <created>1558112116320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558112116320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1952079" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1952079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -271,7 +269,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a few more conversion methods" />
     <MESSAGE value="Finished the file to find the cost of tiling the entire room" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the file to find the cost of tiling the entire room" />
+    <MESSAGE value="To find the factorial of a number using recursion." />
+    <option name="LAST_COMMIT_MESSAGE" value="To find the factorial of a number using recursion." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/E To NTh Decimal/mainE.py">
@@ -325,6 +324,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Credit Card Validator/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
