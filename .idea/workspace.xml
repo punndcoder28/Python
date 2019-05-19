@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2b50953-cb39-4584-a7eb-4cfc409eb300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Alarm Clock/alarmMain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coin Flip Simulator/coinFlipMain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,13 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Alarm Clock/alarmMain.py">
+        <entry file="file://$PROJECT_DIR$/Coin Flip Simulator/coinFlipMain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-              <folding>
-                <element signature="e#191#201#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="303">
+              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -53,6 +50,7 @@
         <option value="$PROJECT_DIR$/Factorial/main.py" />
         <option value="$PROJECT_DIR$/Credit Card Validator/main.py" />
         <option value="$PROJECT_DIR$/Alarm Clock/alarmMain.py" />
+        <option value="$PROJECT_DIR$/Coin Flip Simulator/coinFlipMain.py" />
       </list>
     </option>
   </component>
@@ -92,8 +90,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="fibMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.coinFlipMain">
+    <configuration name="coinFlipMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fibonacci" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coin Flip Simulator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fibonacci/fibMain.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coin Flip Simulator/coinFlipMain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.coinFlipMain" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.nextMain" />
         <item itemvalue="Python.primeMain" />
-        <item itemvalue="Python.fibMain" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558113618197</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="A simple command line based alarm script">
+      <created>1558285821114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558285821114</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -259,7 +264,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964765" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49964765" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -278,7 +283,8 @@
     <MESSAGE value="Finished the file to find the cost of tiling the entire room" />
     <MESSAGE value="To find the factorial of a number using recursion." />
     <MESSAGE value="A simple script to validate credit card numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="A simple script to validate credit card numbers" />
+    <MESSAGE value="A simple command line based alarm script" />
+    <option name="LAST_COMMIT_MESSAGE" value="A simple command line based alarm script" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/E To NTh Decimal/mainE.py">
@@ -349,6 +355,13 @@
           <folding>
             <element signature="e#191#201#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coin Flip Simulator/coinFlipMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
         </state>
       </provider>
     </entry>
